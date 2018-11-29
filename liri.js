@@ -107,4 +107,4 @@ function doThing(){
           
               spotifyThisSong(txt[1]);
             });
-          }
+          }};
